@@ -1,0 +1,11 @@
+#textarea{
+    border-width:thick;
+    width: 250px;
+    height: 80px;
+    border-radius: 8%;
+}
+
+#symbolsP{
+    padding-left: 20px;
+    margin-top: 8px;
+}
